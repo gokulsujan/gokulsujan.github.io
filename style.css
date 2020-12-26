@@ -358,23 +358,20 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills-content .right .ecg::before{
+.skills-content .right .html::before{
     width: 90%;
 }
-.skills-content .right .echo::before{
+.skills-content .right .css::before{
     width: 60%;
 }
-.skills-content .right .cath::before{
+.skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .tmt::before{
-    width: 90%;
+.skills-content .right .php::before{
+    width: 50%;
 }
-.skills-content .right .web::before{
+.skills-content .right .mysql::before{
     width: 70%;
-}
-.skills-content .right .excel::before{
-    width: 80%;
 }
 
 /* teams section styling */
